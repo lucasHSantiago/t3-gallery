@@ -1,4 +1,4 @@
-# T# Gallery
+# T3 Gallery
 
 ## TODO
 
